@@ -1,0 +1,1 @@
+import tratizarplata = 36303for key, value in trati.trati.items():    summa_trat = sum(trati.trati.values())    print(key, value)print(f"-Зарплата:", zarplata)print(f"-Всего трат на:", summa_trat)print(f"-Остаток от зп:",zarplata - summa_trat)print(f"-Непредвиденные расходы:",round((zarplata - summa_trat)*0.2))
